@@ -1,3 +1,3 @@
 # pset1-sol
 
-Please ping me if you have better solutions.
+Please ping me if you have any better solutions.
