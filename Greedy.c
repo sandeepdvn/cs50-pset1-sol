@@ -8,8 +8,9 @@ int main(void)
 
      do
      {
-         printf("How much change is owed?\n");
-         n = get_Float();
+         //printf("How much change is owed?\n");
+      cout<<"How much change is owed?";   
+      n = get_Float();
      }
      while (n < 0);
 
@@ -40,7 +41,7 @@ int main(void)
          amount -= 1;
      }
 
-         printf("%d\n", count);
-
+         //printf("%d\n", count);
+      cout<<count;
      return 0;
  }
